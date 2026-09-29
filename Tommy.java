@@ -17,7 +17,7 @@ public class Tommy extends GBSGame {
 
     public static void main(String[] args) {
         Tommy game = new Tommy();
-        game.setResolution(400, 600);
+        game.setResolution(800, 600);
         game.setFrameRate(60);
         game.createWindow();
     }   
