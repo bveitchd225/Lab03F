@@ -1,0 +1,6 @@
+{
+    "chat.disableAIFeatures": true,
+    "files.exclude": {
+        ".vscode": true
+    }
+}
